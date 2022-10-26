@@ -28,8 +28,12 @@ const Home: NextPage = () => {
           sentiment: "Negative",
         },
         { sentence: "lecture halls", howmanytimes: 20, sentiment: "Negative" },
-        { sentence: "lecture halls", howmanytimes: 30, sentiment: "Negative" },
-        { sentence: "internet", howmanytimes: 40, sentiment: "#ositive" },
+        {
+          sentence: "teaching method",
+          howmanytimes: 30,
+          sentiment: "Negative",
+        },
+        { sentence: "internet", howmanytimes: 40, sentiment: "positive" },
       ],
     ],
     [
@@ -46,8 +50,12 @@ const Home: NextPage = () => {
           sentiment: "Negative",
         },
         { sentence: "lecture halls", howmanytimes: 10, sentiment: "Negative" },
-        { sentence: "lecture halls", howmanytimes: 30, sentiment: "Negative" },
-        { sentence: "internet", howmanytimes: 30, sentiment: "#ositive" },
+        {
+          sentence: "teaching method",
+          howmanytimes: 30,
+          sentiment: "Negative",
+        },
+        { sentence: "internet", howmanytimes: 30, sentiment: "positive" },
       ],
     ],
     [
@@ -64,8 +72,12 @@ const Home: NextPage = () => {
           sentiment: "Negative",
         },
         { sentence: "lecture halls", howmanytimes: 10, sentiment: "Negative" },
-        { sentence: "lecture halls", howmanytimes: 20, sentiment: "Negative" },
-        { sentence: "internet", howmanytimes: 10, sentiment: "#ositive" },
+        {
+          sentence: "teaching method",
+          howmanytimes: 20,
+          sentiment: "Negative",
+        },
+        { sentence: "internet", howmanytimes: 10, sentiment: "positive" },
       ],
     ],
 
@@ -83,8 +95,12 @@ const Home: NextPage = () => {
           sentiment: "Negative",
         },
         { sentence: "lecture halls", howmanytimes: 20, sentiment: "Negative" },
-        { sentence: "lecture halls", howmanytimes: 30, sentiment: "Negative" },
-        { sentence: "internet", howmanytimes: 30, sentiment: "#ositive" },
+        {
+          sentence: "teaching method",
+          howmanytimes: 30,
+          sentiment: "Negative",
+        },
+        { sentence: "internet", howmanytimes: 30, sentiment: "positive" },
       ],
     ],
     [
@@ -101,8 +117,12 @@ const Home: NextPage = () => {
           sentiment: "Negative",
         },
         { sentence: "lecture halls", howmanytimes: 20, sentiment: "Negative" },
-        { sentence: "lecture halls", howmanytimes: 10, sentiment: "Negative" },
-        { sentence: "internet", howmanytimes: 40, sentiment: "#ositive" },
+        {
+          sentence: "teaching method",
+          howmanytimes: 10,
+          sentiment: "Negative",
+        },
+        { sentence: "internet", howmanytimes: 40, sentiment: "positive" },
       ],
     ],
     [
@@ -119,8 +139,12 @@ const Home: NextPage = () => {
           sentiment: "Negative",
         },
         { sentence: "lecture halls", howmanytimes: 10, sentiment: "Negative" },
-        { sentence: "lecture halls", howmanytimes: 30, sentiment: "Negative" },
-        { sentence: "internet", howmanytimes: 10, sentiment: "#ositive" },
+        {
+          sentence: "teaching method",
+          howmanytimes: 30,
+          sentiment: "Negative",
+        },
+        { sentence: "internet", howmanytimes: 10, sentiment: "positive" },
       ],
     ],
   ];
